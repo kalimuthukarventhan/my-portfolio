@@ -38,3 +38,7 @@ my-portfolio/
 ├── README.md
 └── images/
     └── kali.png
+
+## 📸 Preview
+
+![Portfolio Preview](images/portfolio-preview.png)
